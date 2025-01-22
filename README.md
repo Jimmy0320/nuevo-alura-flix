@@ -13,7 +13,7 @@
 - [Autores](#Autores)  
 ## Descripción del proyecto  
 
-AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. El cual consistio en crear una applicación web que sirva de repositorio de videos de youtube, en el cual dichos videos estarán clasificados por categorías. 
+AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. El cual consiste en crear una aplicación web que sirve para de repositorio de videos de youtube, en el cual los videos vienen clasificados por categorías. 
 ![Mockup de AluraFlix](./src/assets/img/previsualizaci%C3%B3n.png)   
 ## Funcionalidades del proyecto 
 - `Funcionalidad 1:`: Listado, registro, actualización y elimnación de categorias
@@ -29,6 +29,6 @@ AluraFlix es un Reto del programa de Oracle Next Education y Alura Latan. El cua
 - Material UI
 - Axios
 - X Data Grid
-## Autores
-| [<img src="https://www.github.com/zidjian.png" width=115><br><sub>Waldir Maidana </sub>](https://github.com/zidjian) |
+## Autor
+| [<img  src="https://avatars.githubusercontent.com/u/84355026?s=400&amp;u=215d0e3412119fc3e3dfc64e507cbc578df7cba3&amp;v=4" width=115><br><sub>Jimmy Ramos </sub>](https://github.com/Jimmy0320) |
 | :---: |
